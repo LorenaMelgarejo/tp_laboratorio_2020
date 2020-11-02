@@ -31,3 +31,13 @@ C:\Users\lola_\OneDrive\Escritorio\pre_TP\TP_2\TP-02\TP-02\bin\Debug\Entidades.d
 C:\Users\lola_\OneDrive\Escritorio\pre_TP\TP_2\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\lola_\OneDrive\Escritorio\pre_TP\TP_2\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\lola_\OneDrive\Escritorio\pre_TP\TP_2\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\bin\Debug\TP-02.exe
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\bin\Debug\TP-02.pdb
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\obj\Debug\TP-02.exe
+C:\Users\lola_\OneDrive\Escritorio\TP_labo_2\tp_laboratorio_2\TP_02_MelgarejoL\TP-02\obj\Debug\TP-02.pdb

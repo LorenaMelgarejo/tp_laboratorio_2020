@@ -1,0 +1,13 @@
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.dll
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.pdb
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\bin\Debug\Archivos.dll
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\bin\Debug\Excepciones.dll
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\bin\Debug\Archivos.pdb
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.dll
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.pdb
