@@ -1,0 +1,6 @@
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
