@@ -1,0 +1,2 @@
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache

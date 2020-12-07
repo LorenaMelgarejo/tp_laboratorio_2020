@@ -1,0 +1,7 @@
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Test\bin\Debug\Test.exe
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Test\bin\Debug\Test.pdb
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Test\obj\Debug\Test.exe
+C:\Users\lola_\OneDrive\Escritorio\pre_TP\Melgarejo.Lorena.2D.TP4\Test\obj\Debug\Test.pdb
